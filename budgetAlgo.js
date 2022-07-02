@@ -1,4 +1,4 @@
-ar fs = require('fs');
+var fs = require('fs');
 const average = 2;
 
 function CreateLink()
