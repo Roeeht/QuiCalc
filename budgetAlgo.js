@@ -12,7 +12,7 @@ function SendFilledForm(googleFormCSV )
     var totalPrices = Calculate(pricesAndSuggestions);
     var suggestions = OfferSuggestions(googleFormCSV);
 
-    console.log(prices,totalPrices,suggestions);
+    console.log(pricesAndSuggestions,totalPrices,suggestions);
 }
 function OfferSuggestions(filePathForm)
 {
