@@ -16,4 +16,4 @@ Our platform provides budget estimates for architectural plans and allows the us
 The technologies we used:
 Customer side - React, HTML, CSS, TypeScript
 Server side - Node.js, JavaScript
-Database - 
+Database - //todo
