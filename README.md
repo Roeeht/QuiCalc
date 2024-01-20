@@ -1,6 +1,4 @@
-על ידי שימוש בטופס ידידותי למשתמש שנבנה ב React, למשתמש אפשרות לעצב ולתכנן את הנכס הקיים או המיועד.
-
-באמצעות Node.js מימשנו תוכנית אשר מייבאת מממאגר נתונים את המחירים הנדרשים בהתאם לתכנון הנכס, שבוצע ע"י המשתמש.
+QuiCalc is a web app for PlanY company, that calculates final costs for architectural plans.
 
 •	Frontend: React, HTML, CSS
 
